@@ -1,1 +1,2 @@
-![https://github.com/Karolina-Boo/AlternativeLayout/blob/master/AlternativeLayout.gif]# AlternativeLayout
+![image](https://github.com/Karolina-Boo/AlternativeLayout/blob/master/AlternativeLayout.gif)
+# AlternativeLayout
